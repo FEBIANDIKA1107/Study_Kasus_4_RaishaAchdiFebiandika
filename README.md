@@ -20,4 +20,4 @@ PENJELASAN<br>
 8. kedelapan ada mengubah data, Data yang diubah di sini adalah data penulis yang digunakan untuk mengubah value pada key "penulis" dengan nama penulis baru yang dimasukkan oleh pengguna. <br>
 9. kesembilan ada menghapus data, Data yang dihapus di sini adalah data penerbit dari Dictionary. Di mana pada kode program yang saya buat ada perintah del untuk menghapus key beserta valuenya. <br>
 10. Selanjutnya ada keluar dari program, digunakan untuk menghentikan program ketika pengguna memilih menu 5. Sebelum dihentikan, program akan menampilkan data buku yang telah diubah. <br>
-Terakhir ada pilihan menu tidak tersedia, digunakan untuk memberikan pesan kepada pengguna jika pengguna memasukkan pilihan selain menu 1 sampai 5.<br>
+11. Terakhir ada pilihan menu tidak tersedia, digunakan untuk memberikan pesan kepada pengguna jika pengguna memasukkan pilihan selain menu 1 sampai 5.<br>
